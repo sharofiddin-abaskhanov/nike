@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+}
+
+ul {
+    list-style: none;
+}
+
+.header {
+    background: url(../images/content.png)no-repeat center/cover;
+    min-height: 565px;
+    display: flex;
+    flex-direction: column;
+}
+
+nav {
+    background-color: #4a939b;
+    display: flex;
+    justify-content: center;
+
+}
